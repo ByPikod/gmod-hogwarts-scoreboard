@@ -8,9 +8,11 @@
 
 ]]--
 
-AddCSLuaFile()
-AddCSLuaFile("board_config.lua")
-resource.AddWorkshop("2572932664")
+if SERVER then
+	AddCSLuaFile()
+	AddCSLuaFile("board_config.lua")
+	resource.AddWorkshop("2572932664")
+end
 
 PointBoard = {}
 
