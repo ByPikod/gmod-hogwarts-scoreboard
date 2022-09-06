@@ -1,7 +1,5 @@
 # GMOD Hogwarts Scoreboard
  GMOD Addon of hogwarts house scoreboard as entity.
-Hello my friends. One year ago i was coding addons for my Hogwarts Server and as a result of an accident all addons i made have been deleted. I sent a few of these addons to my friend. Thats how i save this one.
-So if you want you can use it.
 
 # Note
 
